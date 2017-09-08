@@ -14,14 +14,14 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.apache.commons.codec.digest;
+package com.yyxme.apache.commons.codec.digest;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNotSame;
 import static org.junit.Assert.assertTrue;
 
-import org.apache.commons.codec.Charsets;
+import com.yyxme.apache.commons.codec.Charsets;
 import org.junit.Test;
 
 public class UnixCryptTest {

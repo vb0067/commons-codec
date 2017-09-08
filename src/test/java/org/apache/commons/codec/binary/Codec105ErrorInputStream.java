@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.apache.commons.codec.binary;
+package com.yyxme.apache.commons.codec.binary;
 
 import java.io.IOException;
 import java.io.InputStream;

@@ -15,16 +15,16 @@
  * limitations under the License.
  */
 
-package org.apache.commons.codec.net;
+package com.yyxme.apache.commons.codec.net;
 
 import static org.junit.Assert.*;
 
 import java.nio.charset.UnsupportedCharsetException;
 
-import org.apache.commons.codec.CharEncoding;
-import org.apache.commons.codec.Charsets;
-import org.apache.commons.codec.DecoderException;
-import org.apache.commons.codec.EncoderException;
+import com.yyxme.apache.commons.codec.CharEncoding;
+import com.yyxme.apache.commons.codec.Charsets;
+import com.yyxme.apache.commons.codec.DecoderException;
+import com.yyxme.apache.commons.codec.EncoderException;
 import org.junit.Test;
 
 /**

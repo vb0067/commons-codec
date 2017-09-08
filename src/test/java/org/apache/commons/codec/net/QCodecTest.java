@@ -16,7 +16,7 @@
  */
 
 
-package org.apache.commons.codec.net;
+package com.yyxme.apache.commons.codec.net;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
@@ -26,9 +26,9 @@ import static org.junit.Assert.fail;
 
 import java.nio.charset.UnsupportedCharsetException;
 
-import org.apache.commons.codec.CharEncoding;
-import org.apache.commons.codec.DecoderException;
-import org.apache.commons.codec.EncoderException;
+import com.yyxme.apache.commons.codec.CharEncoding;
+import com.yyxme.apache.commons.codec.DecoderException;
+import com.yyxme.apache.commons.codec.EncoderException;
 import org.junit.Test;
 
 /**

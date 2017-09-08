@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.apache.commons.codec.binary;
+package com.yyxme.apache.commons.codec.binary;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
@@ -28,13 +28,13 @@ import java.nio.charset.UnsupportedCharsetException;
 import java.util.Arrays;
 import java.util.Random;
 
-import org.apache.commons.codec.DecoderException;
-import org.apache.commons.codec.EncoderException;
+import com.yyxme.apache.commons.codec.DecoderException;
+import com.yyxme.apache.commons.codec.EncoderException;
 import org.junit.Assert;
 import org.junit.Test;
 
 /**
- * Tests {@link org.apache.commons.codec.binary.Hex}.
+ * Tests {@link com.yyxme.apache.commons.codec.binary.Hex}.
  *
  * @version $Id$
  */

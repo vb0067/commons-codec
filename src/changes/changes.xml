@@ -190,16 +190,16 @@ The <action> type attribute can be add,update,fix,remove.
         Add the "Kölner Phonetik" encoder (Cologne Phonetic) to codec.lang.
       </action>
       <action dev="ggregory" type="add" issue="CODEC-111" due-to="ggregory">
-        org.apache.commons.codec.net.URLCodec.ESCAPE_CHAR isn't final but should be.
+        com.yyxme.apache.commons.codec.net.URLCodec.ESCAPE_CHAR isn't final but should be.
       </action>
       <action dev="sebb" type="add" issue="CODEC-112" due-to="sebb">
         Base64.encodeBase64(byte[] binaryData, boolean isChunked, boolean urlSafe, int maxResultSize) throws IAE for valid maxResultSize if isChunked is false.
       </action>
       <action dev="ggregory" type="add" issue="CODEC-113" due-to="ggregory">
-        org.apache.commons.codec.language.RefinedSoundex.US_ENGLISH_MAPPING should be package protected MALICIOUS_CODE.
+        com.yyxme.apache.commons.codec.language.RefinedSoundex.US_ENGLISH_MAPPING should be package protected MALICIOUS_CODE.
       </action>
       <action dev="ggregory" type="add" issue="CODEC-114" due-to="ggregory">
-        org.apache.commons.codec.language.Soundex.US_ENGLISH_MAPPING should be package protected MALICIOUS_CODE.
+        com.yyxme.apache.commons.codec.language.Soundex.US_ENGLISH_MAPPING should be package protected MALICIOUS_CODE.
       </action>
       <action dev="ggregory" type="add" issue="CODEC-115" due-to="sebb">
         DoubleMetaphone.maxCodeLen should probably be private.
@@ -390,17 +390,17 @@ The <action> type attribute can be add,update,fix,remove.
         from catalina.
       </action>
       <action dev="Members" type="add">
-        Base64 class from commons-httpclient in org.apache.commons.codec.base64
+        Base64 class from commons-httpclient in com.yyxme.apache.commons.codec.base64
         has been retained for backwards compatibility but has been deprecated.
       </action>
       <action dev="Members" type="add">
-        Soundex class from commons-util in org.apache.commons.codec.
+        Soundex class from commons-util in com.yyxme.apache.commons.codec.
       </action>
       <action dev="Members" type="add">
-        Metaphone class from commons-util in org.apache.commons.codec.
+        Metaphone class from commons-util in com.yyxme.apache.commons.codec.
       </action>
       <action dev="tobrien" type="add">
-        RefinedSoundex class in org.apache.commons.codec.
+        RefinedSoundex class in com.yyxme.apache.commons.codec.
       </action>
       <action dev="Members" type="add">
         Encoder/Decoder interfaces in org.apache.commons.
@@ -417,16 +417,16 @@ The <action> type attribute can be add,update,fix,remove.
     </release>
     <release version="1.0-dev" date="25 April 2003" description="Last release from the Sandbox.">
       <action dev="tobrien" type="add">
-        Base64 class from commons-httpclient in org.apache.commons.codec.base64.
+        Base64 class from commons-httpclient in com.yyxme.apache.commons.codec.base64.
       </action>
       <action dev="tobrien" type="add">
-        Soundex class from commons-util in org.apache.commons.codec.
+        Soundex class from commons-util in com.yyxme.apache.commons.codec.
       </action>
       <action dev="tobrien" type="add">
-        Metaphone class from commons-util in org.apache.commons.codec.
+        Metaphone class from commons-util in com.yyxme.apache.commons.codec.
       </action>
       <action dev="Members" type="add">
-        SoundexComparator class from commons-util in org.apache.commons.codec.
+        SoundexComparator class from commons-util in com.yyxme.apache.commons.codec.
       </action>
     </release>
   </body>

@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.apache.commons.codec.binary;
+package com.yyxme.apache.commons.codec.binary;
 
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
@@ -105,7 +105,7 @@ public class Base32InputStreamTest {
      * sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:306) at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:158) at
      * java.io.InputStreamReader.read(InputStreamReader.java:167) at java.io.BufferedReader.fill(BufferedReader.java:136) at
      * java.io.BufferedReader.readLine(BufferedReader.java:299) at java.io.BufferedReader.readLine(BufferedReader.java:362) at
-     * org.apache.commons.codec.binary.Base32InputStreamTest.testInputStreamReader(Base32InputStreamTest.java:75)
+     * com.yyxme.apache.commons.codec.binary.Base32InputStreamTest.testInputStreamReader(Base32InputStreamTest.java:75)
      *
      * But in commons-codec-1.5 it's fixed. :-)
      *

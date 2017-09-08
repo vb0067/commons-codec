@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.apache.commons.codec;
+package com.yyxme.apache.commons.codec;
 
 import java.util.Locale;
 

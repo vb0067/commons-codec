@@ -15,14 +15,14 @@
  * limitations under the License.
  */
 
-package org.apache.commons.codec.binary;
+package com.yyxme.apache.commons.codec.binary;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
 
-import org.apache.commons.codec.Charsets;
-import org.apache.commons.codec.DecoderException;
-import org.apache.commons.codec.EncoderException;
+import com.yyxme.apache.commons.codec.Charsets;
+import com.yyxme.apache.commons.codec.DecoderException;
+import com.yyxme.apache.commons.codec.EncoderException;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

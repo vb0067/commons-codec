@@ -16,14 +16,14 @@
  *
  */
 
-package org.apache.commons.codec.binary;
+package com.yyxme.apache.commons.codec.binary;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
 
 import java.util.Arrays;
 
-import org.apache.commons.codec.Charsets;
+import com.yyxme.apache.commons.codec.Charsets;
 import org.junit.Test;
 
 public class Base32Test {

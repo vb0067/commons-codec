@@ -10,7 +10,7 @@ Copyright (C) 2002 Kevin Atkinson (kevina@gnu.org)
 
 ===============================================================================
 
-The content of package org.apache.commons.codec.language.bm has been translated
+The content of package com.yyxme.apache.commons.codec.language.bm has been translated
 from the original php source code available at http://stevemorse.org/phoneticinfo.htm
 with permission from the original authors.
 Original source copyright:

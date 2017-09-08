@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.apache.commons.codec.binary;
+package com.yyxme.apache.commons.codec.binary;
 
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.fail;

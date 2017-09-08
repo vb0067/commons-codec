@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.apache.commons.codec;
+package com.yyxme.apache.commons.codec;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
@@ -24,8 +24,8 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-import org.apache.commons.codec.language.DoubleMetaphone;
-import org.apache.commons.codec.language.Soundex;
+import com.yyxme.apache.commons.codec.language.DoubleMetaphone;
+import com.yyxme.apache.commons.codec.language.Soundex;
 import org.junit.Test;
 
 /**

@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.apache.commons.codec;
+package com.yyxme.apache.commons.codec;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNull;

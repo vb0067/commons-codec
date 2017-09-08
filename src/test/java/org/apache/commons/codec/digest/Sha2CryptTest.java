@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.apache.commons.codec.digest;
+package com.yyxme.apache.commons.codec.digest;
 
 import static org.junit.Assert.assertNotNull;
 

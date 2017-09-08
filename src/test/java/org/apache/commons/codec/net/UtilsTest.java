@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.apache.commons.codec.net;
+package com.yyxme.apache.commons.codec.net;
 
 import org.junit.Test;
 
